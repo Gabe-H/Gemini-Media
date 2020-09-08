@@ -1,3 +1,3 @@
 # Gemini-Media
 
-Special song sources for Gemini Spotify
+Special song sources for Gemini
