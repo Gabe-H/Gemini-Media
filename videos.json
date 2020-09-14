@@ -1,59 +1,76 @@
 {
-    "7rgjkzZBhBjObaYsvq8Ej0": {
+    "0": {
+        "id": "7rgjkzZBhBjObaYsvq8Ej0",
         "url":"https://kyle.awayan.com/gemini/lose.mov",
         "css":"object-position: 50% 20%"
     },
-    "6Ve2gwTaMxTgKMuAcHbwcH": {
+    "1": {
+        "id": "6Ve2gwTaMxTgKMuAcHbwcH",
         "url":"https://kyle.awayan.com/gemini/switchblade.mov",
         "css":"object-position: 50% 45%"
     },
-    "06PNiDGtPIMOq9VU2ftVCk": {
+    "2": {
+        "id": "06PNiDGtPIMOq9VU2ftVCk",
         "url":"https://kyle.awayan.com/gemini/djesse3.mov"
     },
-    "1iTiSQWPJNqthOMG8HG6gI": {
+    "3": {
+        "id": "1iTiSQWPJNqthOMG8HG6gI",
         "url":"https://kyle.awayan.com/gemini/djesse3.mov"
     },
-    "164VgxTozx99XCinCB9ITR": {
+    "4": {
+        "id": "164VgxTozx99XCinCB9ITR",
         "url":"https://kyle.awayan.com/gemini/djesse3.mov"
     },
-    "3nGhp4FuIaitNYn4s7XHaX": {
+    "5": {
+        "id": "3nGhp4FuIaitNYn4s7XHaX",
         "url":"https://kyle.awayan.com/gemini/djesse3.mov"
     },
-    "67fkcj4SLrWJ3XiCCMSffD": {
+    "6": {
+        "id": "67fkcj4SLrWJ3XiCCMSffD",
         "url":"https://kyle.awayan.com/gemini/djesse3.mov"
     },
-    "4mTd21pyWajN252LcouVIm": {
+    "7": {
+        "id": "4mTd21pyWajN252LcouVIm",
         "url":"https://kyle.awayan.com/gemini/djesse3.mov"
     },
-    "18kV8FzhGXE6XndMdiv4Ox": {
+    "8": {
+        "id": "18kV8FzhGXE6XndMdiv4Ox",
         "url":"https://kyle.awayan.com/gemini/djesse3.mov"
     },
-    "3JAU4wQQUKBj0PHaRbmEjz": {
+    "9": {
+        "id": "3JAU4wQQUKBj0PHaRbmEjz",
         "url":"https://kyle.awayan.com/gemini/djesse3.mov"
     },
-    "3mSoxi4aC7oiTGJjsLLkaM": {
+    "10": {
+        "id": "3mSoxi4aC7oiTGJjsLLkaM",
         "url":"https://kyle.awayan.com/gemini/djesse3.mov"
     },
-    "6ocbgoVGwYJhOv1GgI9NsF": {
+    "11": {
+        "id": "6ocbgoVGwYJhOv1GgI9NsF",
         "url":"https://kyle.awayan.com/gemini/7rings.mov",
         "css":"object-position: 50% 7%"
     },
-    "50oEtTUNlce4TuZXQoJzXW": {
+    "12": {
+        "id": "50oEtTUNlce4TuZXQoJzXW",
         "url":"https://kyle.awayan.com/gemini/urs.mov",
         "css":"object-position: 50% 30%"
     },
-    "4HBZA5flZLE435QTztThqH": {
+    "13": {
+        "id": "4HBZA5flZLE435QTztThqH",
         "url":"https://kyle.awayan.com/gemini/stuckwithu.mov",
         "css":"object-position: 50% 35%"
     },
-    "6JOcqL8v344EarvtlQZ3km": {
+    "14": {
+        "id": "6JOcqL8v344EarvtlQZ3km",
         "url":"https://kyle.awayan.com/gemini/indigo.mov"
     },
-    "1sOr5OXjbukTzBDgmvd6Fa": {
+    "15": {
+        "id": "1sOr5OXjbukTzBDgmvd6Fa",
         "url":"https://kyle.awayan.com/gemini/trying.mov",
         "css":"object-position: 50% 20%"
     },
-    "4Yxc55NX3tAXC2mHRAhtcW": {
+    "16": {
+        "id": "4Yxc55NX3tAXC2mHRAhtcW",
         "url":"https://kyle.awayan.com/gemini/alliwant.mov",
         "css":"object-position: 50% 25%"
     }
