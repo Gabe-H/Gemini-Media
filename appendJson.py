@@ -7,8 +7,11 @@ myID = input('Spotify URI: ')
 myURL = input('URL: ')
 myCSS = input('CSS (leave blank if none): ')
 
+myID = myID.split(':')
+myID = myID[len(myID)-1]
+
 data['ids'].append({
-    "id": myID[14:],
+    "id": myID,
     "url": myURL,
     "css": myCSS
 })
