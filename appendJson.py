@@ -3,16 +3,14 @@ import json
 with open('videos.json') as f:
     data = json.load(f)
 
-myID = input('Spotify URI: ')
-myID = myID.split(':')
-myID = myID[len(myID)-1]
-print(myID)
+myURI = input('Spotify URI: ')
+print(myURI)
 myURL = input('URL: ')
 myCSS = input('CSS (leave blank if none): ')
 
 
 data['ids'].append({
-    "id": myID,
+    "id": myURI,
     "url": myURL,
     "css": myCSS
 })
