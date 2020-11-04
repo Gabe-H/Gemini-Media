@@ -124,6 +124,11 @@
             "id": "4euxYgIl5XEqUj5WB9lHNq",
             "url": "https://gemini-app.s3-us-west-1.amazonaws.com/shed.mp4",
             "css": ""
+        },
+        {
+            "id": "4opJILpCnQGhk5GSbVRBBA",
+            "url": "https://gemini-app.s3-us-west-1.amazonaws.com/afterglow.mov",
+            "css": ""
         }
     ]
 }
