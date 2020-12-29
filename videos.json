@@ -129,6 +129,11 @@
             "id": "spotify:track:78D02ZDWXjpB6si1Fhbw6q",
             "url": "https://gemini-app.s3-us-west-1.amazonaws.com/afterglow.mov",
             "css": ""
+        },
+        {
+            "id": "spotify:track:2lPuTPwMUBRpNfNrA7sfuT",
+            "url": "https://gemini-app.s3-us-west-1.amazonaws.com/plasticmemories.mov",
+            "css": ""
         }
     ]
 }
